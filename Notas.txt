@@ -1,0 +1,6 @@
+De el articulo de Gnedin & Ostriker 1997:
+nu=t_hubble/t_d = 10^10 yr / t_d
+
+De su tabla 3:
+nu_tot=1.63 ==> t_tot=6.3  Gyr    } OC  Isotripic
+nu_tot=8.64 ==> t_tot=1.15 Gyr    } BSS Isotripic
